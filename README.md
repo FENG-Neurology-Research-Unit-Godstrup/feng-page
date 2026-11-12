@@ -1,3 +1,3 @@
-# Clinical Cerebro-vascular Research group at AUH
+# Forskningsenheden i Neurologi, Fysio-ergoterapi Gødstrup
 
-(Source of the lab meeting calendar and other work within the group.))
+Source page for new students, doctors and clinical researchers getting into research at the Research Unit.
